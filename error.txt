@@ -1,0 +1,22 @@
+│ ⚠ Setup Warnings                                                                                                                                 │
+│ We found some potential issues, but you can continue anyway                                                                                      │
+│                                                                                                                                                  │
+│ GitHub CLI not found                                                                                                                             │
+│ GitHub CLI (gh) does not appear to be installed or accessible.                                                                                   │
+│                                                                                                                                                  │
+│   • Install GitHub CLI from https://cli.github.com/                                                                                              │
+│   • macOS: brew install gh                                                                                                                       │
+│   • Windows: winget install --id GitHub.cli                                                                                                      │
+│   • Linux: See installation instructions at https://github.com/cli/cli#installation                                                              │
+│                                                                                                                                                  │
+│ GitHub CLI not authenticated                                                                                                                     │
+│ GitHub CLI does not appear to be authenticated.                                                                                                  │
+│                                                                                                                                                  │
+│   • Run: gh auth login                                                                                                                           │
+│   • Follow the prompts to authenticate with GitHub                                                                                               │
+│   • Or set up authentication using environment variables or other methods                                                                        │
+│                                                                                                                                                  │
+│                                                                                                                                                  │
+│ Press Enter to continue anyway, or Ctrl+C to exit and fix issues                                                                                 │
+│                                                                                                                                                  │
+│ You can also try the manual setup steps if needed: https://github.com/anthropics/claude-code-action/blob/main/docs/setup.md   
